@@ -1,6 +1,9 @@
-# Life-Flip-Datapack
+![https://i.imgur.com/6Jdvlum.png](https://i.imgur.com/6Jdvlum.png)
+# **Life Flip Datapack**
 A challenge datapack for Minecraft 1.18+
 Inspired/based by the character 'Tainted Lazarus' from Binding of Isaac
+
+**[Download the datapack](https://github.com/Shaaaaaaaaaron/Life-Flip-Datapack/releases)**
 
 **This datapack is NOT multiplayer friendly!**
 
